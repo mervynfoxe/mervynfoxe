@@ -6,7 +6,7 @@ I'm Mervyn, just some fox who's been around the internet for a minute.
 
 I mainly do web dev these days, professionally and as a hobby. I mostly like to work on the back-end with PHP and server config, and I touch on all sorts of frameworks. Professionally lately that mostly means stuff like Drupal (ugh) or WordPress (ughhhh), but on the side I enjoy working with Laravel a lot! Once upon a time I even specialized in CodeIgniter and Zend Framework (and once even wrote my own MVC framework!) but it's been a bit.
 
-Outside of web, I pretty much just do hobby stuff working with Python, Bash scripting, or trying to learn Rust (I know, I know. I'm just curious what all the hype's about). When not touching computers, I can usually be found brewing and downing coffee, taking photos around town, or playing games.
+Outside of web, I pretty much just do hobby stuff working with Python, Bash scripting, or trying to learn Rust (I know, I know. I'm just curious what all the hype's about).
 
 ## What I don't work on
 
